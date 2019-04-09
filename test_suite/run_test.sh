@@ -4,10 +4,10 @@
 
 # Test Suggested by Insight
 
-# compiler	            g++
-# source code	          /src/Groceries.cpp
-# input		              /test_suite/test_1/input/products.csv
-# input		              /test_suite/test_1/input/order_products.csv
+# compiler	         g++
+# source code	         /src/Groceries.cpp
+# input		         /test_suite/test_1/input/products.csv
+# input		         /test_suite/test_1/input/order_products.csv
 # signal about test	    test
 # input folder	        /test_suite/test_1/input/
 # output folder	        /test_suite/test_1/output/
@@ -16,12 +16,12 @@ g++ /src/Groceries.cpp /test_suite/test_1/input/products.csv /test_suite/test_1/
 
 
 
-# compiler		          g++
+# compiler		        g++
 # source code	          /src/Groceries.cpp
-# optimizer	            -O2
+# optimizer	         -O2
 # counter initiation	  200824
-# input		              /input/products.csv
-# input		              /input/order_products__prior.csv
+# input		         /input/products.csv
+# input		         /input/order_products__prior.csv
 # signal about test	    test
 # input folder	        /input/
 # output folder	        /test_suite/personal_test/output/
