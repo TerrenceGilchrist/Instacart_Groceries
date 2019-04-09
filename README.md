@@ -2,6 +2,7 @@
 Insight Coding Challenge for the Data Engineering Program | Instacart Online Grocery Shopping Dataset 2017 | C++
 
 **Table of Contents**
+
 I.    Purpose
 II.   Dataset
 III.  Output
