@@ -9,6 +9,7 @@ IV.   Time
 V.    Implementation
 VI.   My Approach
 VII.  What I Learned
+VIII. Proper Attribution
 
 
 **I.    Purpose**
@@ -72,3 +73,21 @@ f) *Iterators* –Although I deployed a map container to recreate the products.c
 g) *Adding to a Map Container* – Emplace is the method that I chose to initially fill the map. Later in the program, I equated the map with its respective key of product_id to the other member of the map, which was department_id.
 
 h) *Reserving Memory for a Map Container* – Get_allocator().allocate() is a way to demarcate sufficient memory space. There is a way to deallocate too.
+
+
+
+**VIII.   Proper Attribution**
+
+The object-oriented approach for this C++ program is based upon an object-oriented C++ program written by me as a graduate student in the role of faculty research assistant from September 2005 to July 2008. The textbooks for which I relied to write that program are currently in my storage unit. I mention this for the reason that the portion of the code that pertains to appending the date to the output files was aided by understanding from those books of strings as an array of characters. However, the books that I perused recently to refresh my memory, first in November 2018 and now, April 2019, are herein listed. These I had already downloaded in the past one to four and a half years, with the most recent read online. In addition to the books, I reviewed extensively examples of functions and syntax involving the Standard Template Library from the following websites:  CPluPlus, GeeksforGeeks, and ModernesCPP. Aside from the functions and syntax, all the programming is entirely my own.
+
+Eubank, R. L. and A. Kupresanin. *Statistical Computing in C++ and R*
+(U.S. Department of Energy, Lawrence Livermore National Laboratory: 2010)
+
+Gregoire, Marc. *Professional C++*, 4th Edition
+(John Wiley & Sons, Inc., Indianapolis: 2018)
+
+London , Justin. *Modeling Derivatives in C++* 
+(John Wiley & Sons, Inc., Hoboken: 2005)
+
+Pitt-Francis , Joe and Jonathan Whitely. *Guide to Scientific Computing in C++*
+(Springer-Verlag, London: 2012)
