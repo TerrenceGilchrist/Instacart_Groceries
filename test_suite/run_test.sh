@@ -17,7 +17,7 @@ g++ /src/Groceries.cpp /test_suite/test_1/input/products.csv /test_suite/test_1/
 
 
 # compiler		 g++
-# source code	          /src/Groceries.cpp
+# source code	         /src/Groceries.cpp
 # optimizer	         -O2
 # counter initiation	  200824
 # input		         /input/products.csv
