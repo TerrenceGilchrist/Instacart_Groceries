@@ -23,7 +23,7 @@ g++ /src/Groceries.cpp /test_suite/test_1/input/products.csv /test_suite/test_1/
 # input		         /input/products.csv
 # input		         /input/order_products__prior.csv
 # signal about test	 test
-# input folder	        /input/
-# output folder	        /test_suite/personal_test/output/
+# input folder	          /input/
+# output folder	          /test_suite/personal_test/output/
 
 g++ /src/Groceries.cpp -O2 200824 /input/products.csv /input/order_products__prior.csv test /input/ /test_suite/personal_test/output/
