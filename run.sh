@@ -1,8 +1,8 @@
 # !/bin/bash
 
-# compiler	g++
-# source code	    /src/Groceries.cpp
-# optimizer	      -O2
+# compiler	    g++
+# source code	        /src/Groceries.cpp
+# optimizer	        -O2
 # input		        /input/products.csv
 # input		        /input/order_products__prior.csv
 # input folder	        /input/
